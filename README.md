@@ -2,12 +2,12 @@
 GET değeri ile gelen 2 sayı ile 6 işlemin sonucunu bulur.
 
 Yapılan İşlemler:
-*Toplama [0]
-*Çıkartma [1]
-*Çarpma [2]
-*Bölme [3]
-*Modül [4]
-*Yüzdelik [5]
+* Toplama [0]
+* Çıkartma [1]
+* Çarpma [2]
+* Bölme [3]
+* Modül [4]
+* Yüzdelik [5]
 
 Örnek kullanım:
 
